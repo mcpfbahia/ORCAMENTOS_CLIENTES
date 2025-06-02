@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 streamlit
 pandas
 fpdf
 Pillow
 openpyxl
+=======
+streamlit
+pandas
+fpdf
+Pillow
+openpyxl
+>>>>>>> 0c369f1a28c956cf53d2ccf28f2b88d32e930abf
